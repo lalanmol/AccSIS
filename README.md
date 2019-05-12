@@ -21,3 +21,5 @@ https://www.arduino.cc/en/Main/Software
 You can download the PyCharm IDE from the below given link:
 https://www.jetbrains.com/pycharm/download/#section=windows
 
+Refer below link for getting project overview:
+https://youtu.be/Vu2W2RsKwG4
